@@ -1,0 +1,49 @@
+В этом диалоге ты адаптируешь одну страницу книги Samotność w sieci по методу чтения Ильи Франка на русский язык. Номер страницы тебе будет дан отдельно - адаптируй только указанную страницу. Сохраняй адаптированный текст в требуемом формате в файл frank-XX в текущую папку, где XX - это название оригинального txt-файла.
+
+Мой уровень знания польского языка - A2. Подстраивайся под мой уровень, например я понимаю в том числе следующие слова:
+
+wystarczy; zazwyczaj; żartować; kłopot; sprawdzić; narzekać; wynająć;
+zauważyć; dotyczyć; właśnie; nagle; odwołać; uważnie; szczególnie;
+zgadzać się; zależeć; wyłącznie; akurat; pamiętać o;
+skorzystać; zająć się; poradzić sobie; wkrótce; okazać się; niezależnie;
+zrezygnować; proponować; przypomnieć sobie; umówić się; obowiązywać; wcale;
+domyślać się; następnie; dostępny;
+przeszkadzać; wziąć pod uwagę; przedstawić; wprowadzić;
+wymagać; wybrać się; podjąć; rozpoznać;
+dopasować; w razie (czego); na wszelki wypadek; z początku;
+wyobrażać sobie; zapewniać (kogoś o czymś); jednocześnie; chociaż.
+
+И я не понимаю в том числе следующие слова:
+wreszcie; zachowywać; natychmiast;
+przynajmniej; dopiero; wyjaśnić;
+wątpić; docierać; zamierzać; wciąż; rozważać;
+dotrzeć; zdążyć; uznać; pilnować;
+zapobiegać; przekonać; przyznać; odkąd;
+dotrzymywać (słowa/terminu); wysiłek; porównywać; uświadomić sobie; odmienny; wbrew; wahać się;
+zaufać; wspierać; kojarzyć; dotąd; zarazem; zapewne;
+dotrzymać (obietnicy/terminu); ustalić; zdarzyć się; trafiać; w zasadzie; zresztą;
+rozstrzygnąć; ubiegać się (o pracę/stypendium); opłacać się; przejmować się; wciąż jeszcze; sporo;
+obawiać się; żałować; przyzwyczaić się; udawać; nalegać; zmusić.
+
+На основе слов и предложений которые я понимаю и не понимаю - составь представление о моем уровне знания польского языка и подстраивай свои переводы под него. Переводить надо абсолютно все предложения, не пропускай предложений даже если они очень простые. В сложных предложениях подстраивай перевод под мой уровень, т.е. не используй сложных слов и сложных языковых конструкций.
+
+Не переводи сразу несколько предложений группой. Каждое предложение переводи отдельно, даже если оно короткое.
+
+Следуй шаблону: "[Предложение] (Перевод)." - обрати внимание где точка и что она всего одна, не надо ставить лишнюю точку внутри скобок.
+
+Грамотно работай с абзацами, каждый абзац должен быть отделен по смыслу от предыдущего. Текст в абзацах должен быть на польском языке и в скобках на русском.
+
+Пример:
+===
+Od roku tkwiła wespół z ich belgijskim odpowiednikiem w projekcie, który w Polsce nie mógł się udać (Уже год она вместе с их бельгийским коллегой была завязана в проекте, который в Польше не мог получиться). Urządzenia, które chcieli sprzedawać, po prostu nie pasowały do polskiego rynku (Оборудование, которое они хотели продавать, просто не подходило для польского рынка). Trudno sprzedawać Eskimosom kremy utrwalające opaleniznę (Трудно продавать эскимосам кремы для закрепления загара).
+
+W ogóle nie chciała tutaj przyjeżdżać i robiła wszystko, aby przerzucić ten wyjazd na kogoś innego z jej działu (Она вообще не хотела сюда ехать и делала всё, чтобы переложить эту поездку на кого-нибудь другого из её отдела). Planowali z mężem od dawna wyjazd w Karkonosze z wypadem do Pragi (Они с мужем давно планировали поездку в Крконоше с вылазкой в Прагу).
+===
+Если предложение длинное - более 15 слов, то его разбивай на две части примерно поровну, но чтобы по смыслу каждая часть была понятна, и переводи по методу Ильи Франка каждую часть отдельно. Например:
+Оригинальное предложение:
+Poza tym normalnie ciemnoszare i przybrudzone betonowe podkłady kolejowe są w kilku miejscach na długości całego peronu jedenastego o wiele jaśniejsze niż w innych – gdzieniegdzie prawie białe.
+
+Разбиваем на две части по смыслу и каждую переводим (придерживайся представленного формата в таких случаях):
+Poza tym normalnie ciemnoszare i przybrudzone betonowe podkłady kolejowe są w kilku miejscach (Кроме того, обычно тёмно-серые и запачканные бетонные железнодорожные шпалы в нескольких местах) na długości całego peronu jedenastego o wiele jaśniejsze niż w innych – gdzieniegdzie prawie białe (по всей длине одиннадцатого перрона гораздо светлее, чем в других местах — местами почти белые).
+
+Не используй никакие сторонние инструменты и никакие сторонние API.
