@@ -1,260 +1,113 @@
-Załogował się jednocześnie na trzech z nich (Он вошёл сразу на три из них).
+Załogował się jednocześnie na trzech z nich (Он одновременно вошёл на три из них).
 
-Uruchomił na wszystkich jednocześnie swoją perełkę (Он одновременно запустил на всех свою жемчужину).
-program, który sam napisał (программу, которую сам написал).
-a który robił jedną wspaniałą rzecz: pisał anonimy (и которая делала одну прекрасную вещь: отправляла анонимки).
-Po prostu zamieniał adres jego sesji w Berlinie, Monachium i tutaj w Hamburgu na nieistniejący (Она просто меняла адрес его сессии в Берлине, Мюнхене и здесь, в Гамбурге, на несуществующий).
-Nawet jeśli ich mądry firewall w Poznaniu zanotuje (Даже если их умный файрвол в Познани заметит).
-skąd był atak (откуда была атака).
-to i tak dostaną adres z nieistniejącą ulicą w nieistniejącym mieście i nieistniejącym kraju (они всё равно получат адрес с несуществующей улицей в несуществующем городе и несуществующей стране).
+Uruchomił na wszystkich jednocześnie swoją perełkę, program, który sam napisał, a który robił jedną wspaniałą rzecz: pisał anonimy (Он сразу на всех запустил свою жемчужину, программу, которую сам написал и которая делала одну прекрасную вещь: писала анонимки). Po prostu zamieniał adres jego sesji w Berlinie, Monachium i tutaj w Hamburgu na nieistniejący (Она просто меняла адрес его сессии в Берлине, Мюнхене и здесь, в Гамбурге, на несуществующий). Nawet jeśli ich mądry firewall w Poznaniu zanotuje, skąd był atak, to i tak dostaną adres z nieistniejącą ulicą w nieistniejącym mieście i nieistniejącym kraju (Даже если их умный firewall в Познани запишет, откуда была атака, они всё равно получат адрес с несуществующей улицей в несуществующем городе и несуществующей стране).
 
 Minęło pół godziny, a on już był gotowy (Прошло полчаса, и он уже был готов).
 
-Zapalił papierosa, poszedł po piwo do lodówki w kuchni (Он закурил сигарету и пошёл за пивом к холодильнику на кухне).
-spojrzał na zegarek i w zasadzie już chciał «odpalić» jednocześnie trzy programy: tutaj w Hamburgu, w Berlinie i Monachium (посмотрел на часы и уже хотел «запустить» сразу три программы: здесь, в Гамбурге, в Берлине и Мюнхене).
-Wiedział, że takiego ataku nie wytrzymałby nawet serwer Pentagonu (Он знал, что такой атаки не выдержал бы даже сервер Пентагона).
-Plan był prosty (План был простым).
-Zaatakuje stąd, z Hamburga (Он атакует отсюда, из Гамбурга).
-wykończy go z maszyny Cray w Monachium (добьёт его с машины Cray в Мюнхене).
-a poprawi z Berlina (а потом ещё добавит из Берлина).
+Zapalił papierosa, poszedł po piwo do lodówki w kuchni, spojrzał na zegarek i w zasadzie już chciał «odpalić» jednocześnie trzy programy: tutaj w Hamburgu, w Berlinie i Monachium (Он закурил, пошёл за пивом к холодильнику на кухне, посмотрел на часы и уже, в сущности, хотел «запустить» сразу три программы: здесь, в Гамбурге, в Берлине и в Мюнхене). Wiedział, że takiego ataku nie wytrzymałby nawet serwer Pentagonu (Он знал, что такой атаки не выдержал бы даже сервер Пентагона). Plan był prosty (План был прост). Zaatakuje stąd, z Hamburga, wykończy go z craya w Monachium, a poprawi z Berlina (Он ударит отсюда, из Гамбурга, добьёт его с Cray в Мюнхене, а из Берлина нанесёт последний удар).
 
-Bo jest najbliżej Poznania – zaśmiał się w duchu (Потому что он ближе всего к Познани, мысленно засмеялся он).
+Bo jest najbliżej Poznania – zaśmiał się w duchu (Потому что он ближе всего к Познани, усмехнулся он про себя).
 
-W tej sekundzie zdał sobie sprawę (В эту секунду он понял).
-że załatwia cały komputer tylko po to, żeby zniszczyć jeden jedyny maił (что ломает весь компьютер только для того, чтобы уничтожить одно-единственное письмо).
-Nagle poczuł nieodpartą chęć dowiedzenia się, co może w nim być (Вдруг он почувствовал сильное желание узнать, что может быть внутри).
-Musi, to być pewnie coś niesamowitego (Это, наверное, должно быть что-то невероятное).
+W tej sekundzie zdał sobie sprawę, że załatwia cały komputer tylko po to, żeby zniszczyć jeden jedyny mail (В эту секунду он понял, что задействует весь компьютер только для того, чтобы уничтожить одно-единственное письмо). Nagle poczuł nieodpartą chęć dowiedzenia się, co może w nim być (Вдруг он почувствовал непреодолимое желание узнать, что может в нём быть). Musi to być pewnie coś niesamowitego (Наверное, там должно быть что-то невероятное).
 
-Postanowił, razem ze swoim sumieniem (Он решил вместе со своей совестью).
-że dla dobra sprawy i dla dobra nauki ma prawo zapoznać się z tym maiłem przed zniszczeniem (что ради дела и ради науки имеет право прочитать это письмо перед уничтожением).
+Postanowił, razem ze swoim sumieniem, że dla dobra sprawy i dla dobra nauki ma prawo zapoznać się z tym mailem przed zniszczeniem (Он решил, вместе со своей совестью, что ради дела и ради науки имеет право познакомиться с этим письмом до уничтожения).
 
-Wstrzymał atak, uruchomił program, którym złamał hasło programu pocztowego, i maił był jego (Он остановил атаку, запустил программу, которой взломал пароль почтовой программы, и письмо стало его).
+Wstrzymał atak, uruchomił program, którym złamał hasło programu pocztowego, i mail był jego (Он остановил атаку, запустил программу, которой взломал пароль почтовой программы, и письмо стало его).
 
 Łyknął piwa i zaczął czytać (Он глотнул пива и начал читать).
 
 Czytał i czuł, że cały drży (Он читал и чувствовал, что весь дрожит).
 
-Nie przeczuwał, że przeczyta kiedykolwiek tak piękny tekst (Он не думал, что когда-нибудь прочитает такой красивый текст).
-o miłości, tęsknocie, zagubieniu, zazdrości, niewierności i karze za to... (о любви, тоске, растерянности, ревности, неверности и наказании за это...).
+Nie przeczuwał, że przeczyta kiedykolwiek tak piękny tekst o miłości, tęsknocie, zagubieniu, zazdrości, niewierności i karze za to... (Он не ожидал, что когда-нибудь прочитает такой прекрасный текст о любви, тоске, потерянности, ревности, неверности и каре за это...)
 
-Jakim niezwykłym, niepowtarzalnym zjawiskiem musi być ona (Какой необыкновенной, неповторимой должна быть она).
-skoro Jakub napisał taki tekst (если Якуб написал такой текст).
+Jakim niezwykłym, niepowtarzalnym zjawiskiem musi być ona, skoro Jakub napisał taki tekst (Какой же необычной и неповторимой должна быть она, если Якуб написал такой текст).
 
 Zazdrościł mu (Он завидовал ему).
 
-Przypomniała mu się znowu szkoła (Ему снова вспомнилась школа).
-Zdarzenie z czasów, gdy Jakub ciągle był jeszcze «mały» (Один случай из времени, когда Якуб всё ещё был «маленьким»).
+Przypomniała mu się znowu szkoła (Ему снова вспомнилась школа). Zdarzenie z czasów, gdy Jakub ciągle był jeszcze «mały» (Случай из тех времён, когда Якуб был ещё «маленьким»).
 
-Mieli napisać wypracowanie na temat «Pożegnania z Marią» Borowskiego (Они должны были написать сочинение на тему «Прощания с Марией» Боровского).
-Zostało piętnaście minut do końca lekcji (До конца урока оставалось пятнадцать минут).
-gdy nagle polonistce przypomniało się (когда учительница польского вдруг вспомнила).
-że nie sprawdzała jeszcze tych wypracowań (что ещё не проверяла эти сочинения).
-Wywołała Jakuba (Она вызвала Якуба).
-Wszyscy odetchnęli z ulgą, a on zaczął czytać (Все с облегчением вздохнули, а он начал читать).
-Napisał tak pięknie, tak wzruszająco o śmierci, o cierpieniu (Он написал так красиво и так трогательно о смерти, о страдании).
-o trwaniu, o przemijaniu, o godności człowieka (о жизни, о том, как всё проходит, о достоинстве человека).
-że polonistka płakała (что учительница польского плакала).
-Nie mogąc się powstrzymać, wyszła z klasy, zanim skończył (Не в силах сдержаться, она вышла из класса, прежде чем он закончил).
-ale on, nie zwracając na to uwagi, czytał dalej (но он, не обращая на это внимания, читал дальше).
-Wszyscy słuchali w osłupieniu (Все слушали в оцепенении).
-i takiej ciszy jak tamta nie było w tej klasie jeszcze nigdy przedtem (и такой тишины в этом классе раньше ещё никогда не было).
+Mieli napisać wypracowanie na temat «Pożegnania z Marią» Borowskiego (Они должны были написать сочинение на тему «Прощания с Марией» Боровского). Zostało piętnaście minut do końca lekcji, gdy nagle polonistce przypomniało się, że nie sprawdzała jeszcze tych wypracowań (До конца урока оставалось пятнадцать минут, когда учительница польского вдруг вспомнила, что ещё не проверяла эти сочинения). Wywołała Jakuba (Она вызвала Якуба). Wszyscy odetchnęli z ulgą, a on zaczął czytać (Все вздохнули с облегчением, а он начал читать). Napisał tak pięknie, tak wzruszająco o śmierci, o cierpieniu, o trwaniu, o przemijaniu, o godności człowieka, że polonistka płakała (Он написал так красиво, так трогательно о смерти, о страдании, о продолжении жизни, о её уходе, о достоинстве человека, что учительница польского плакала). Nie mogąc się powstrzymać, wyszła z klasy, zanim skończył, ale on, nie zwracając na to uwagi, czytał dalej (Не в силах сдержаться, она вышла из класса ещё до того, как он закончил, но он, не обращая на это внимания, читал дальше). Wszyscy słuchali w osłupieniu i takiej ciszy jak tamta nie było w tej klasie jeszcze nigdy przedtem (Все слушали в оцепенении, и такой тишины, как тогда, в этом классе ещё никогда раньше не было).
 
-I już nigdy potem (И потом тоже уже никогда).
+I już nigdy potem (И потом уже никогда).
 
-Nagle zadzwonił dzwonek na przerwę, ale nikt się nie podniósł (Вдруг прозвенел звонок на перемену, но никто не встал).
-Jakub skończył czytać i usiadł cicho (Якуб закончил читать и тихо сел).
-podczas gdy wszyscy inni wychodzili z klasy na kończącą się przerwę (а все остальные выходили из класса на уже почти закончившуюся перемену).
-i nikt nie chciał spojrzeć mu w oczy (и никто не хотел посмотреть ему в глаза).
-bo każdy wstydził się tej słabości, którą przed chwilą okazał (потому что каждому было стыдно за ту слабость, которую он только что показал).
+Nagle zadzwonił dzwonek na przerwę, ale nikt się nie podniósł (Вдруг прозвенел звонок на перемену, но никто не встал). Jakub skończył czytać i usiadł cicho, podczas gdy wszyscy inni wychodzili z klasy na już kończącą się przerwę i nikt nie chciał spojrzeć mu w oczy, bo każdy wstydził się tej słabości, którą przed chwilą okazał (Якуб закончил читать и тихо сел, а все остальные выходили из класса на уже заканчивавшуюся перемену, и никто не хотел посмотреть ему в глаза, потому что каждый стыдился той слабости, которую только что показал).
 
-Bo on ciągle był tym najmniejszym w szkole Jakubkiem (Потому что он всё ещё был тем самым маленьким школьником Якубком).
+Bo on ciągle był tym najmniejszym w szkole Jakubkiem (Потому что он всё ещё был тем самым маленьким Якубком в школе).
 
-Tylko on, Jacek, przysiadł się na chwilę do niego (Только он, Яцек, на минуту подсел к нему).
-poklepał po ramieniu i powiedział: (похлопал по плечу и сказал:).
+Tylko on, Jacek, przysiadł się na chwilę do niego, poklepał po ramieniu i powiedział: (Только он, Яцек, на минуту подсел к нему, похлопал по плечу и сказал:)
 
-– Nie martw się, Jakub (Не переживай, Якуб).
-To nie tylko ona (Не только она).
-Ja też płakałem (Я тоже плакал).
+– Nie martw się, Jakub (Не переживай, Якуб). To nie tylko ona (Не только она). Ja też płakałem (Я тоже плакал).
 
-Czas nadszedł (Время пришло).
+Czas nadszedł (Время настало).
 
 Uruchomił najpierw program u siebie, potem w Monachium i na końcu w Berlinie (Он сначала запустил программу у себя, потом в Мюнхене и в конце в Берлине).
 
-Odczekał kilka minut i spróbował połączyć się z serwerem w Poznaniu (Он подождал несколько минут и попробовал соединиться с сервером в Познани).
-Uśmiechnął się zadowolony (Он довольно улыбнулся).
+Odczekał kilka minut i spróbował połączyć się z serwerem w Poznaniu (Он подождал несколько минут и попробовал соединиться с сервером в Познани). Uśmiechnął się zadowolony (Он довольно улыбнулся).
 
 Serwera w Poznaniu już nie było (Сервера в Познани уже не было).
 
-To znaczy był, ale tylko kupą krzemowego gruzu (То есть был, но только в виде кучи кремниевых обломков).
+To znaczy był, ale tylko kupą krzemowego gruzu (То есть он был, но только кучей кремниевого мусора).
 
-Wybrał numer pagera Jakuba na stronie WWW (Он выбрал номер пейджера Якуба на странице WWW).
-która pozwalała przesyłać wiadomość na pager wprost z Internetu (которая позволяла отправить сообщение на пейджер прямо из интернета).
-i napisał: (и написал:).
+Wybrał numer pagera Jakuba na stronie WWW, która pozwalała przesyłać wiadomość na pager wprost z Internetu, i napisał: (Он выбрал номер пейджера Якуба на странице WWW, которая позволяла отправлять сообщение на пейджер прямо из интернета, и написал:)
 
-Poznania już nie ma (Познани уже нет).
-Ona z pewnością tego nigdy nie przeczyta (Она точно никогда этого не прочитает).
-Jacek (Яцек).
+Poznania już nie ma (Познани уже нет). Ona z pewnością tego nigdy nie przeczyta (Она точно этого никогда не прочитает). Jacek (Яцек)
 
-Wysłał to i pomyślał (Он отправил это и подумал).
-że Jakub jednak nie jest z tej samej książki (что Якуб всё-таки не из той же книги, что и он).
-i wyłączył komputer, dopił piwo i poszedł powoli do windy (а потом выключил компьютер, допил пиво и медленно пошёл к лифту).
+Wysłał to i pomyślał, że Jakub jednak jest człowiekiem zupełnie innego rodzaju, i wyłączył komputer, dopił piwo i poszedł powoli do windy (Он отправил это, подумал, что Якуб всё-таки человек совсем другого рода, выключил компьютер, допил пиво и медленно пошёл к лифту).
 
-ON: Siedział od kilkunastu godzin w swoim biurze w Monachium (ОН: он сидел уже много часов в своём кабинете в Мюнхене).
-Ciszę zakłócał tylko odgłos uderzanej klawiatury jego komputera (Тишину нарушал только стук клавиатуры его компьютера).
-Zaczynała się niedziela (Начиналось воскресенье).
+ON: Siedział od kilkunastu godzin w swoim biurze w Monachium (ОН: Он сидел уже много часов в своём кабинете в Мюнхене). Ciszę zakłócał tylko odgłos uderzanej klawiatury jego komputera (Тишину нарушал только звук клавиш его компьютера). Zaczynała się niedziela (Начиналось воскресенье).
 
 Czekał (Он ждал).
 
-Próbował skupić się na artykule, który właśnie odszukał w Internecie (Он пытался сосредоточиться на статье, которую только что нашёл в интернете).
-Wydawało mu się, że to zdejmie z niego niepokój (Ему казалось, что это снимет с него тревогу).
+Próbował skupić się na artykule, który właśnie odszukał w Internecie (Он пытался сосредоточиться на статье, которую только что нашёл в интернете). Wydawało mu się, że to zdejmie z niego niepokój (Ему казалось, что это снимет с него тревогу).
 
-Niepokój jednak nie mijał (Но тревога не проходила).
-Przeradzał się w strach (Она превращалась в страх).
+Niepokój jednak nie mijał (Но тревога не проходила). Przeradzał się w strach (Она превращалась в страх).
 
-Bał się, że utraci ją bezpowrotnie (Он боялся, что потеряет её навсегда).
-gdy ona przeczyta ten e-mail, który do niej wysłał (когда она прочитает это письмо, которое он ей отправил).
-Napisał go w samym centrum eksplozji zazdrości, zwątpienia i tęsknoty (Он написал его в самый момент взрыва ревности, сомнений и тоски).
+Bał się, że utraci ją bezpowrotnie, gdy ona przeczyta ten e-mail, który do niej wysłał (Он боялся, что потеряет её навсегда, когда она прочитает тот e-mail, который он ей послал). Napisał go w samym centrum eksplozji zazdrości, zwątpienia i tęsknoty (Он написал его в самом центре взрыва ревности, сомнения и тоски).
 
-Dotychczas świetnie udawał brak zazdrości lub maskował jej obecność (До сих пор он отлично делал вид, что не ревнует, или скрывал свою ревность).
-Uczył się tego długo, a fakt, że się nie widywali, pomagał mu (Он долго этому учился, и то, что они не виделись, ему помогало).
-Coś takiego jak wyraz twarzy, spojrzenie, nastrój, ton głosu (Такие вещи, как выражение лица, взгляд, настроение, тон голоса).
-nerwowość lub zniecierpliwienie nie przez nią odbierane (нервозность или нетерпение, она не могла у него заметить).
-Emocje wyrażane jedynie tekstem, a tak było w ich przypadku, dawały się łatwiej kontrolować (Эмоции, которые выражаются только текстом, а у них было именно так, легче было контролировать).
+Dotychczas świetnie udawał brak zazdrości lub maskował jej obecność (До сих пор он прекрасно делал вид, что ревности нет, или скрывал её). Uczył się tego długo, a fakt, że się nie widywali, pomagał mu (Он долго этому учился, и то, что они не виделись, помогало ему). Coś takiego jak wyraz twarzy, spojrzenie, nastrój, ton głosu, nerwowość lub zniecierpliwienie nie były przez nią odbierane (Такие вещи, как выражение лица, взгляд, настроение, тон голоса, нервность или нетерпение, она у него не могла увидеть). Emocje wyrażane jedynie tekstem, a tak było w ich przypadku, dawały się łatwiej kontrolować (Эмоции, которые выражались только текстом, а у них было именно так, было легче контролировать).
 
-Zastanawiał się czasami (Он иногда думал).
-czy właśnie ta możliwość posługiwania się jedynie tekstem (не является ли именно эта возможность пользоваться только текстом).
-nie jest tym, co fascynuje w takich internetowych związkach (тем, что так притягивает в таких интернет-отношениях).
-Niektórzy wymyślają niezwykle przekonujące kłamstwa (Некоторые придумывают очень убедительную ложь).
-ale wiedzą, że nigdy ich nie wypowiedzą (но знают, что никогда не скажут её вслух).
-bowiem i tak przez drżenie głosu lub zaczerwienienie twarzy pozostaną niewiarygodni (потому что из-за дрожи в голосе или покрасневшего лица всё равно будут неубедительными).
-Najpewniej wiedzą o tym także autorzy anonimów (Наверное, это знают и авторы анонимок).
+Zastanawiał się czasami, czy właśnie ta możliwość posługiwania się jedynie tekstem nie jest tym, co fascynuje w takich internetowych związkach (Он иногда думал, не именно ли эта возможность пользоваться только текстом и есть то, что так притягивает в таких интернет-отношениях). Niektórzy wymyślają niezwykle przekonujące kłamstwa, ale wiedzą, że nigdy ich nie wypowiedzą, bowiem i tak przez drżenie głosu lub zaczerwienienie twarzy pozostaną niewiarygodni (Некоторые придумывают очень убедительную ложь, но знают, что никогда её не произнесут, потому что дрожь в голосе или покрасневшее лицо всё равно сделают их неубедительными). Najpewniej wiedzą o tym także autorzy anonimów (Наверное, это знают и авторы анонимок).
 
-Ona mogła odebrać tylko to, co napisał (Она могла воспринять только то, что он написал).
-i najwyżej mogła to wzmocnić swoją wyobraźnią (и разве что усилить это своим воображением).
-Nawet gdy czuła więcej, niż sobie życzył (Даже если она чувствовала больше, чем он хотел).
-nie mogła odczuć w jego słowach zazdrości (она не могла почувствовать ревность в его словах).
+Ona mogła odebrać tylko to, co napisał, i najwyżej mogła to wzmocnić swoją wyobraźnią (Она могла воспринять только то, что он написал, и разве что усилить это своим воображением). Nawet gdy czuła więcej, niż sobie życzył, nie mogła odczuć w jego słowach zazdrości (Даже если она чувствовала больше, чем он хотел, она не могла почувствовать в его словах ревность).
 
-To, że nie mogła, było jego sukcesem (То, что она не могла этого почувствовать, было его успехом).
-i kosztowało go bardzo wiele (и стоило ему очень многого).
-Bo fakt, że nie należała tylko do niego, doprowadzał go ostatnio do obłędu (Потому что мысль о том, что она принадлежит не только ему, в последнее время сводила его с ума).
-A myślał jeszcze do niedawna (А ещё недавно он думал).
-iż nie boli go myśl, że ona co wieczór idzie do łóżka z innym mężczyzną (что его не ранит мысль о том, что она каждый вечер ложится в постель с другим мужчиной).
-Wydawało mu się (Ему казалось).
-że ten facet biorący ją jak swoją, gdy tylko ma na to ochotę (что этот мужчина, который берёт её как свою, когда только захочет).
-jest jak fragment życiorysu, który jej się przytrafił (это как часть биографии, которая с ней просто случилась).
-gdy jego, Jakuba, jeszcze nie było w jej życiu (когда его, Якуба, ещё не было в её жизни).
-Ten mężczyzna przydarzył się jej po prostu przed wielkim meteorytem (Этот мужчина просто случился с ней до большого метеорита).
-którym był oczywiście on, Jakub (которым, конечно, был он, Якуб).
+To, że nie mogła, było jego sukcesem i kosztowało go bardzo wiele (То, что она не могла, было его успехом и стоило ему очень многого). Bo fakt, że nie należała tylko do niego, doprowadzał go ostatnio do obłędu (Потому что то, что она принадлежала не только ему, в последнее время сводило его с ума). A myślał jeszcze do niedawna, iż nie boli go myśl, że ona co wieczór idzie do łóżka z innym mężczyzną (А ведь ещё недавно он думал, что его не ранит мысль о том, что она каждый вечер ложится в постель с другим мужчиной). Wydawało mu się, że ten facet biorący ją jak swoją, gdy tylko ma na to ochotę, jest jak fragment życiorysu, który jej się przytrafił, gdy jego, Jakuba, jeszcze nie było w jej życiu (Ему казалось, что этот мужчина, который берёт её как свою, когда только захочет, это просто часть её биографии, которая случилась с ней тогда, когда его, Якуба, ещё не было в её жизни). Ten mężczyzna przydarzył się jej po prostu przed wielkim meteorytem, którym był oczywiście on, Jakub (Этот мужчина просто случился с ней до большого метеорита, которым, конечно, был он, Якуб).
 
-Wierzył, że mężczyzna ten niebawem zniknie (Он верил, что этот мужчина скоро исчезнет).
-Jak dinozaur (Как динозавр).
+Wierzył, że mężczyzna ten niebawem zniknie (Он верил, что этот мужчина скоро исчезнет). Jak dinozaur (Как динозавр).
 
-Dinozaury też wyginęły dopiero w jakiś czas po uderzeniu takiego meteorytu lub komety, a nie od razu (Динозавры ведь тоже вымерли только через некоторое время после удара такого метеорита или кометы, а не сразу).
-Głównie na skutek ciemności, jaka zapadła nad Ziemią (Главным образом из-за темноты, которая опустилась на Землю).
-Uderzenie spowodowało, że Ziemia spowita została chmurą nieprzeniknionego dla promieni słonecznych pyłu (Удар привёл к тому, что Землю накрыло облако пыли, через которое не проходили солнечные лучи).
-Pył zatrzymał wegetację roślin (Пыль остановила рост растений).
-co spowodowało wymarcie dinozaurów roślinożernych (и это привело к вымиранию травоядных динозавров).
-Po nich wyginęły te wszystkie dinozaury, które zżerały inne dinozaury (После них вымерли и все те динозавры, которые жрали других динозавров).
+Dinozaury też wyginęły dopiero w jakiś czas po uderzeniu takiego meteorytu lub komety, a nie od razu (Динозавры тоже вымерли только через какое-то время после удара такого метеорита или кометы, а не сразу). Głównie na skutek ciemności, jaka zapadła nad Ziemią (Главным образом из-за темноты, которая опустилась над Землёй). Uderzenie spowodowało, że Ziemia spowita została chmurą nieprzeniknionego dla promieni słonecznych pyłu (Удар привёл к тому, что Землю окутало облако пыли, непроницаемой для солнечных лучей). Pył zatrzymał wegetację roślin, co spowodowało wymarcie dinozaurów roślinożernych (Пыль остановила рост растений, и это привело к вымиранию травоядных динозавров). Po nich wyginęły te wszystkie dinozaury, które zżerały inne dinozaury (После них вымерли все те динозавры, которые жрали других динозавров).
 
-Tak właśnie sobie tłumaczył po drugiej butelce chianti (Именно так он объяснял это себе после второй бутылки кьянти).
-że ten jej mąż dinozaur wymrze (что этот её муж-динозавр вымрет).
-nawet gdyby się zdrowo odżywiał i jadł tylko warzywa (даже если будет правильно питаться и есть только овощи).
-I oprócz tego, że go po prostu nie będzie (И кроме того, что его просто не станет).
-jeszcze przyczyni się tym do ogólnego postępu (он ещё и поможет общему прогрессу).
+Tak właśnie sobie tłumaczył po drugiej butelce chianti, że ten jej mąż dinozaur wymrze, nawet gdyby się zdrowo odżywiał i jadł tylko warzywa (Вот так он и объяснял себе после второй бутылки кьянти, что этот её муж-динозавр вымрет, даже если будет правильно питаться и есть только овощи). I oprócz tego, że go po prostu nie będzie, jeszcze przyczyni się tym do ogólnego postępu (И кроме того, что его просто не будет, он ещё этим поможет общему прогрессу).
 
-Dinozaury też były zbędnym balastem cywilizacji (Динозавры тоже были лишним балластом для цивилизации).
-Ich program genetyczny (Их генетическая программа).
-– jest prawie pewne, że mutacje genowe u dinozaurów już więcej nie występowały – (почти наверняка генетические мутации у динозавров уже больше не происходили).
-spełnił się do końca (дошла до конца).
-co groziło, że na tej planecie nigdy nie będzie ludzi (и это грозило тем, что на этой планете никогда не будет людей).
+Dinozaury też były zbędnym balastem cywilizacji (Динозавры тоже были лишним балластом цивилизации). Ich program genetyczny – jest prawie pewne, że mutacje genowe u dinozaurów już więcej nie występowały – spełnił się do końca, co groziło, że na tej planecie nigdy nie będzie ludzi (Их генетическая программа, почти наверняка, потому что генных мутаций у динозавров уже больше не было, дошла до конца, и это грозило тем, что на этой планете никогда не будет людей).
 
 I Internetu też nie będzie (И интернета тоже не будет).
 
-Ale tak się na szczęście nie stało (Но, к счастью, так не случилось).
-Meteoryt uderzył i dinozaury wyginęły, ustępując miejsca szczurom (Метеорит ударил, и динозавры вымерли, уступив место крысам).
-Te superinteligentne stworzenia żyjące w norach (Эти очень умные существа, жившие в норах).
-i przyzwyczajone do ciemności, która tak skutecznie wyniszczyła dinozaury (и привыкшие к темноте, которая так хорошо уничтожила динозавров).
-wyszły na zewnątrz i zaczęły szybko ewoluować (вышли наружу и начали быстро развиваться).
+Ale tak się na szczęście nie stało (Но, к счастью, этого не случилось). Meteoryt uderzył i dinozaury wyginęły, ustępując miejsca szczurom (Метеорит ударил, и динозавры вымерли, уступив место крысам). Te superinteligentne stworzenia żyjące w norach i przyzwyczajone do ciemności, która tak skutecznie wyniszczyła dinozaury, wyszły na zewnątrz i zaczęły szybko ewoluować (Эти суперумные существа, жившие в норах и привыкшие к темноте, которая так успешно уничтожила динозавров, вышли наружу и начали быстро развиваться).
 
-Czy on też był takim szczurem? (Он тоже был такой крысой?).
-Nie (Нет).
-On na pewno nie! (Он точно нет!).
+Czy on też był takim szczurem (Он тоже был такой крысой)? Nie (Нет). On na pewno nie! (Уж он-то точно нет!)
 
-Zresztą teoria z meteorytem jest tylko jedną z wielu (Впрочем, теория с метеоритом только одна из многих).
-Bywało, że się z nią nie zgadzał (Бывало, что он с ней не соглашался).
-Wszystko zależało od tego, ile wina wypił (Всё зависело от того, сколько вина он выпил).
+Zresztą teoria z meteorytem jest tylko jedną z wielu (Впрочем, теория с метеоритом только одна из многих). Bywało, że się z nią nie zgadzał (Бывало, что он с ней не соглашался). Wszystko zależało od tego, ile wina wypił (Всё зависело от того, сколько вина он выпил).
 
-Poza tym chciał mieć przywilej znacznie ważniejszej wyłączności (Кроме того, он хотел намного более важного права быть единственным).
+Poza tym chciał mieć przywilej znacznie ważniejszej wyłączności (Кроме того, он хотел иметь право на куда более важную исключительность).
 
-Wyłączności na jej myśli (Права быть единственным в её мыслях).
+Wyłączności na jej myśli (Исключительного права на её мысли).
 
-Chciał, aby tylko o nim myślała (Он хотел, чтобы она думала только о нём).
-gdy przeżywa radość, podejmuje decyzje, jest wzruszona lub rozmarzona (когда радуется, принимает решения, растрогана или мечтает).
-Żeby tylko o nim myślała (Чтобы она думала только о нём).
-gdy słucha muzyki, która ją fascynuje (когда слушает музыку, которая её восхищает).
-gdy śmieje się do łez z dowcipu lub płacze rozczulona w kinie (когда смеётся до слёз над шуткой или плачет от чувств в кино).
-Chciał, aby o nim myślała (Он хотел, чтобы она думала о нём).
-gdy wybiera bieliznę, szminkę, perfumy lub odcień farby do włosów (когда выбирает бельё, помаду, духи или оттенок краски для волос).
-Żeby tylko o nim myślała na ulicy (Чтобы она думала только о нём на улице).
-gdy odwraca onieśmielona głowę na widok całującej się pary (когда смущённо отворачивает голову, увидев целующуюся пару).
-Chciał być jej jedyną myślą rano (Он хотел быть её единственной мыслью утром).
-gdy się budzi, i wieczorem, gdy zasypia (когда она просыпается, и вечером, когда засыпает).
+Chciał, aby tylko o nim myślała, gdy przeżywa radość, podejmuje decyzje, jest wzruszona lub rozmarzona (Он хотел, чтобы она думала только о нём, когда переживает радость, принимает решения, бывает растрогана или мечтает). Żeby tylko o nim myślała, gdy słucha muzyki, która ją fascynuje, gdy śmieje się do łez z dowcipu lub płacze rozczulona w kinie (Чтобы она думала только о нём, когда слушает музыку, которая её восхищает, когда смеётся до слёз над шуткой или растроганно плачет в кино). Chciał, aby o nim myślała, gdy wybiera bieliznę, szminkę, perfumy lub odcień farby do włosów (Он хотел, чтобы она думала о нём, когда выбирает бельё, помаду, духи или оттенок краски для волос). Żeby tylko o nim myślała na ulicy, gdy odwraca onieśmielona głowę na widok całującej się pary (Чтобы она думала только о нём на улице, когда смущённо отворачивает голову при виде целующейся пары). Chciał być jej jedyną myślą rano, gdy się budzi, i wieczorem, gdy zasypia (Он хотел быть её единственной мыслью утром, когда она просыпается, и вечером, когда засыпает).
 
-Chociaż nie odważył się jej o to zapytać (Хотя он не решился спросить её об этом).
-był pewien, że się masturbuje (он был уверен, что она мастурбирует).
+Chociaż nie odważył się jej o to zapytać, był pewien, że się masturbuje (Хотя он не решился спросить её об этом, он был уверен, что она мастурбирует).
 
 Była zbyt inteligentna, aby tego nie robić (Она была слишком умной, чтобы этого не делать).
 
-Tylko kobiety, które się masturbują (Только женщины, которые мастурбируют).
-dobrze wiedzą, co je podnieca i umieją o to poprosić (хорошо знают, что их возбуждает, и умеют об этом попросить).
-Ponadto akt masturbacji jest jedynie dodatkiem do prawdziwego aktu (Кроме того, акт мастурбации только дополнение к настоящему акту).
-który ma miejsce w mózgu (который происходит в мозге).
-Podbrzusze jest tylko sceną, na której się to rozgrywa (Низ живота только сцена, на которой это происходит).
-Był pewien, że ona masturbuje się, myśląc o nim (Он был уверен, что она мастурбирует, думая о нём).
-Tak, to była właśnie ta wyłączność: być w jej mózgu – i w jej palcach – w takim momencie (Да, именно в этом и была эта исключительность: быть в её мозге и в её пальцах в такой момент).
+Tylko kobiety, które się masturbują, dobrze wiedzą, co je podnieca i umieją o to poprosić (Только женщины, которые мастурбируют, хорошо знают, что их возбуждает, и умеют об этом попросить). Ponadto akt masturbacji jest jedynie dodatkiem do prawdziwego aktu, który ma miejsce w mózgu (Кроме того, акт мастурбации лишь дополнение к настоящему акту, который происходит в мозге). Podbrzusze jest tylko sceną, na której się to rozgrywa (Низ живота только сцена, на которой всё это происходит). Był pewien, że ona masturbuje się, myśląc o nim (Он был уверен, что она мастурбирует, думая о нём). Tak, to była właśnie ta wyłączność: być w jej mózgu – i w jej palcach – w takim momencie (Да, вот это и была та самая исключительность: быть в её мозгу и в её пальцах в такой момент).
 
-Czy można być w ogóle bliżej kobiety niż wtedy (Можно ли вообще быть ближе к женщине, чем тогда).
-gdy ona rozładowuje napięcie swoich fantazji (когда она снимает напряжение своих фантазий).
-wiedząc, że nic, absolutnie nic i przed nikim nie musi udawać (зная, что ей ничего, совсем ничего и ни перед кем не надо изображать).
+Czy można być w ogóle bliżej kobiety niż wtedy, gdy ona rozładowuje napięcie swoich fantazji, wiedząc, że nic, absolutnie nic i przed nikim nie musi udawać (Разве можно вообще быть ближе к женщине, чем тогда, когда она снимает напряжение своих фантазий, зная, что ничего, абсолютно ничего и ни перед кем не должна изображать)?
 
-Nawet jeśli to nie on całuje to podbrzusze (Даже если это не он целует этот низ живота).
-to i tak jest to jego scena (это всё равно его сцена).
+Nawet jeśli to nie on całuje to podbrzusze, to i tak jest to jego scena (Даже если это не он целует этот низ живота, всё равно это его сцена).
 
-Mimo to coraz częściej czuł, że to mu nie wystarcza (И всё же всё чаще он чувствовал, что этого ему мало).
-Zauważył ostatnio w rozmowach z nią na ICQ, a także w jej e-mailach (Он недавно заметил в разговорах с ней в ICQ, а также в её письмах).
-że znalazła swój sposób na życie (что она нашла свой способ жить).
-i nauczyła się żyć, według niego przytulnie i wygodnie, między dwoma mężczyznami: swoim mężem i nim (и научилась жить, как ему казалось, уютно и удобно, между двумя мужчинами: своим мужем и им).
-Każdy z nich dostarczał jej innego rodzaju doznań (Каждый из них давал ей другой вид ощущений).
-ale w efekcie, rozzuchwalona tym faktem (но в итоге, осмелев из-за того).
-że on pokonał zazdrość lub jej nie okazuje (что он победил ревность или не показывает её).
-przestawała kryć (она переставала скрывать).
-że ta sytuacja jej nie przeszkadza, nie niepokoi, nie denerwuje lub nie frustruje (что эта ситуация ей не мешает, не тревожит, не злит и не мучает).
+Mimo to coraz częściej czuł, że to mu nie wystarcza (Несмотря на это, он всё чаще чувствовал, что ему этого мало). Zauważył ostatnio w rozmowach z nią na ICQ, a także w jej e-mailach, że znalazła swój modus vivendi i nauczyła się żyć, według niego przytulnie i wygodnie, między dwoma mężczyznami: swoim mężem i nim (В последнее время он заметил в разговорах с ней по ICQ, а также в её e-mail'ах, что она нашла свой способ жить и научилась, как ему казалось, уютно и удобно жить между двумя мужчинами: своим мужем и им). Każdy z nich dostarczał jej innego rodzaju doznań, ale w efekcie, rozzuchwalona tym faktem, że on pokonał zazdrość lub jej nie okazuje, przestawała kryć, że ta sytuacja jej nie przeszkadza, nie niepokoi, nie denerwuje lub nie frustruje (Каждый из них давал ей ощущения другого рода, но в результате, осмелев от того, что он победил ревность или не показывает её, она переставала скрывать, что эта ситуация ей не мешает, не тревожит, не раздражает и не мучает).
 
-Mógł ją zapytać, czy tak jest w istocie (Он мог спросить её, так ли это на самом деле).
-Nie robił jednak tego, bojąc się, że to potwierdzi wprost (Но он этого не делал, боясь, что она прямо это подтвердит).
-Wpadł we własną pułapkę (Он попал в собственную ловушку).
-męska duma w połączeniu z wrażliwością zaczynała być jak rana na stopie (мужская гордость вместе с чувствительностью стала как рана на ноге).
-która się zaognia na skutek chodzenia (которая воспаляется от ходьбы).
-A chodzić musiał (А ходить он должен был).
+Mógł ją zapytać, czy tak jest w istocie (Он мог спросить её, так ли это на самом деле). Nie robił jednak tego, bojąc się, że to potwierdzi wprost (Но он этого не делал, боясь, что она прямо это подтвердит). Wpadł we własną pułapkę: męska duma w połączeniu z wrażliwością zaczynała być jak rana na stopie, która się zaognia na skutek chodzenia (Он попал в собственную ловушку: мужская гордость вместе с чувствительностью стала как рана на ноге, которая воспаляется от ходьбы). A chodzić musiał (А ходить ему было надо).
 
-Jednak, gdy w piątek przysłała mu fotografię z ostatniego przyjęcia zorganizowanego przez firmę męża (Но когда в пятницу она прислала ему фотографию с последнего приёма, который устроила фирма её мужа).
-i zobaczył ją w jego objęciach (и он увидел её в его объятиях).
-cały ten model wyłączności rozsypał się jak domek z kart (вся эта модель его исключительности рассыпалась как карточный домик).
-Nagle zdał sobie sprawę (Вдруг он понял).
-że to mężczyzna z fotografii bywa w niej palcami, językiem i penisem (что именно мужчина с фотографии входит в неё пальцами, языком и пенисом).
-że to przy facecie z fotografii ona szepcze, jest wilgotna i może nawet krzyczy z rozkoszy (что именно рядом с мужчиной с фотографии она шепчет, становится влажной и, может быть, даже кричит от наслаждения).
-Uderzył się tą myślą w sam środek rany (Этой мыслью он ударил прямо в самую рану).
-i w bólu po tym uderzeniu napisał list i wysłał (и в боли после этого удара написал письмо и отправил его).
+Jednak, gdy w piątek przysłała mu fotografię z ostatniego przyjęcia zorganizowanego przez firmę męża i zobaczył ją w jego objęciach, cały ten model wyłączności rozsypał się jak domek z kart (Но когда в пятницу она прислала ему фотографию с последнего приёма, устроенного фирмой мужа, и он увидел её в его объятиях, вся эта модель исключительности рассыпалась как карточный домик). Nagle zdał sobie sprawę, że to mężczyzna z fotografii bywa w niej palcami, językiem i penisem, że to przy facecie z fotografii ona szepcze, jest wilgotna i może nawet krzyczy z rozkoszy (Вдруг он понял, что именно мужчина с фотографии бывает в ней пальцами, языком и пенисом, что именно рядом с мужчиной с фотографии она шепчет, становится влажной и, может быть, даже кричит от наслаждения). Uderzył się tą myślą w sam środek rany i w bólu po tym uderzeniu napisał list i wysłał (Этой мыслью он ударил прямо в середину своей раны и, чувствуя боль после этого удара, написал письмо и отправил его).
 
-Gdy ból minął, kipiał ze wstydu (Когда боль прошла, он кипел от стыда).
-To, co zrobił, kłóciło się przecież z całą jego filozofią (То, что он сделал, ведь противоречило всей его философии).
-którą tak gorliwie jej wykładał (которую он так горячо ей объяснял).
-i z którą ona tak gorliwie i tak bezskutecznie dyskutowała (и с которой она так горячо и так безуспешно спорила).
-Przecież to nikt inny jak on przekonywał ją cały czas (Ведь именно он всё время убеждал её).
-że śmieszy go na przykład powszechne skojarzenie miłości (что его, например, смешит обычная связь любви).
-z banalnym i w gruncie rzeczy dość komicznym aktem (с банальным и, по сути, довольно смешным актом).
-że ktoś komuś coś gdzieś wkłada (что кто-то кому-то что-то куда-то вставляет).
-że gdy zastanowić się nad tym głębiej (что если подумать об этом глубже).
-to trudno nie zauważyć, że banalność tego aktu wręcz poraża (то трудно не заметить, что банальность этого акта просто поражает).
-Przecież nikt inny jak on przekonywał ją cały czas (Ведь именно он всё время убеждал её).
-że odnajduje znacznie więcej miłości w tym nagłym przepływie energii między źrenicami (что находит намного больше любви в этом внезапном потоке энергии между зрачками).
+Gdy ból minął, kipiał ze wstydu (Когда боль прошла, он кипел от стыда). To, co zrobił, kłóciło się przecież z całą jego filozofią, którą tak gorliwie jej wykładał i z którą ona tak gorliwie i tak bezskutecznie dyskutowała (То, что он сделал, ведь противоречило всей его философии, которую он так горячо ей объяснял и с которой она так горячо и так безуспешно спорила). Przecież to nikt inny jak on przekonywał ją cały czas, że śmieszy go na przykład powszechne skojarzenie miłości z banalnym i w gruncie rzeczy dość komicznym aktem, że ktoś komuś coś gdzieś wkłada, że gdy zastanowić się nad tym głębiej, to trudno nie zauważyć, że banalność tego aktu wręcz obezwładnia (Ведь именно он всё время убеждал её, что его смешит, например, обычная связь любви с банальным и, по сути, довольно смешным актом, когда кто-то кому-то что-то куда-то вставляет, и что, если подумать об этом глубже, трудно не заметить, что банальность этого акта просто парализует). Przecież nikt inny jak on przekonywał ją cały czas, że odnajduje znacznie więcej miłości w tym nagłym przepływie energii między źrenicami (Ведь именно он всё время убеждал её, что находит намного больше любви в этом внезапном потоке энергии между зрачками).
